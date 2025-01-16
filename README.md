@@ -1,7 +1,11 @@
 # flutterfilm
 
-A new Flutter project.
+A Flutter application designed to provide information about films.
 
+## 🌟 Features  
+- 🎥 View detailed information about movies.  
+- 🔍 Search for your favorite films.  
+- 📱 Responsive design for all devices.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
