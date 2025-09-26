@@ -1,10 +1,6 @@
 pipeline {
     agent any
 
-    tools {
-        flutter 'flutter-sdk'
-    }
-
     stages {
         stage('Checkout') {
             steps {
